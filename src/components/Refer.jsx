@@ -18,7 +18,7 @@ const Refer = ({ handleclick }) => {
         <div className="refer-img">
           <img
             className="refer-img"
-            src="./refer_img.png"
+            src="./referimg.png"
             alt="img not found"
             style={{ height: 350, width: 393 }}
           />
