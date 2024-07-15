@@ -68,3 +68,7 @@
 .buttons-sec {
   max-width: 50%;
 }
+
+.buttons-sec {
+  border-radius: 24px;
+}
