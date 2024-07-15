@@ -18,7 +18,7 @@ const Refer = ({ handleclick }) => {
         <div className="refer-img">
           <img
             className="refer-img"
-            src="./referimg.png"
+            src="https://static-perf1.zupee.com/blog-images/uploads/2023/05/refer-and-earn-apps-in-india.webp"
             alt="img not found"
             style={{ height: 350, width: 393 }}
           />
